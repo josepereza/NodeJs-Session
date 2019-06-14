@@ -2,7 +2,7 @@
 Simple session con nodejs
 
 
-e ejecuta empleando los siguientes comandos:
+Se ejecuta empleando los siguientes comandos:
 ```ruby
 
 npm install express
@@ -19,6 +19,6 @@ localhost:3000/logout
 localhost:3000/content
 
 ```
-con node session_array es lo mismo que lo anterior pero con un array almecenado en una session. 
+Con node session_array es lo mismo que lo anterior pero con un array almecenado en una session. 
 
 enlace: https://ull-esit-pl-1617.github.io/estudiar-cookies-y-sessions-en-expressjs-daniel-alejandro-aduanich-daniel/Sess/
